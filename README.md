@@ -24,7 +24,8 @@ It enables basic employee data management with create, read, update, and delete 
 4. Press `F5` to build and run the application
 
 ## 📸 Screenshot
-> *(Add a screenshot of your application UI here once available)*
+![Screenshot (57)](https://github.com/user-attachments/assets/3ba1f090-5569-4ee7-8fe2-8610804a0b75)
+![Screenshot (58)](https://github.com/user-attachments/assets/8a5602e3-c483-4ff8-be59-24a43d0095cb)
 
 ---
 
